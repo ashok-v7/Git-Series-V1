@@ -1,5 +1,4 @@
 login as admin
-<<<<<<< HEAD
 add or remove user
 change roles
 manage the db
@@ -10,7 +9,6 @@ change 1
 change 2 from postgres in NOSQL database
 change 4 
 change3 in database
-=======
 
 create an avatar feature
 ai feature..
@@ -18,4 +16,3 @@ ai feature..
 ....
 ....
 ..... Completed
->>>>>>> feature1

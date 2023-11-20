@@ -2,3 +2,4 @@ login as admin
 add or remove users
 change roles
 manage the db
+clossing the connection

@@ -1,5 +1,5 @@
 login as admin
-add or remove users
+add or remove user
 change roles
 manage the db
 clossing the connection

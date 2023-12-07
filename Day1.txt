@@ -1,6 +1,8 @@
 Total 4 Hrs
 
 2 Hrs Basic
+main-d1
+main-d2
 less1
 less2
 2 Hrs Project 
